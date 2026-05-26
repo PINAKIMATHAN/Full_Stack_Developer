@@ -345,6 +345,78 @@ Recreated a minimalist search engine UI focusing on precision design.
 
 ---
 
+
+---
+
+## 💬 30. Discord Cloning Website
+**Problem:** Understanding real-time communication platform UI and structure  
+**Solution:** Clone of a modern chat application interface  
+
+**Description:**  
+Developed a Discord-inspired web application UI to replicate the structure of real-time communication platforms. The project focuses on building a scalable layout including servers panel, chat sections, and user interface components.
+
+**Key Features:**
+- Sidebar navigation (servers/channels)  
+- Chat interface layout  
+- Responsive UI design  
+- Component-based structure  
+
+**Tech Stack:** HTML, CSS, JavaScript  
+
+---
+
+## 🔐 31. User Authentication System
+**Problem:** Securing user access and managing sessions  
+**Solution:** Authentication and authorization system  
+
+**Description:**  
+Implemented a complete user authentication system that allows users to securely register, log in, and manage sessions. This project demonstrates core concepts of authentication logic and secure data handling.
+
+**Key Features:**
+- User registration & login  
+- Form validation  
+- Session handling  
+- Basic security practices  
+
+**Tech Stack:** JavaScript (Frontend Logic)  
+
+---
+
+## 🌐 32. QR Code Generator
+**Problem:** Manual sharing of complex data/links  
+**Solution:** Automated QR code generation  
+
+**Description:**  
+Built a QR code generator that converts text or URLs into scannable QR codes instantly. This project demonstrates API usage and dynamic content generation.
+
+**Key Features:**
+- Instant QR generation  
+- Input-based dynamic output  
+- API integration  
+- Download/share capability  
+
+**Tech Stack:** JavaScript, API  
+
+---
+
+## 🎥 33. Video Conferencing Application
+**Problem:** Need for real-time virtual communication tools  
+**Solution:** Web-based video conferencing system  
+
+**Description:**  
+Developed a basic video conferencing application that enables users to connect via video and audio in real time. This project demonstrates handling of media streams and peer-to-peer communication.
+
+**Key Features:**
+- Video & audio streaming  
+- Real-time communication  
+- User interface controls  
+- Browser media API usage  
+
+**Tech Stack:** JavaScript, WebRTC  
+
+---
+
+
 # 🧠 Skills Demonstrated
 
 - Advanced HTML5 & CSS3  
