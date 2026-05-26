@@ -1,0 +1,10 @@
+html, body{
+background-image:url(../img/back1.jpg);
+}
+.survey-form {
+  background-image:url(../img/back.jpg);
+  padding: 20px;
+}
+.modal-content textarea.form-control {
+  max-width: 100%;
+}
